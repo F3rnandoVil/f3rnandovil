@@ -1,6 +1,6 @@
 
 ![Mi Banner de Github](GithubBanner.png)
-
+# <img src="https://media.giphy.com/media/iMBzH7q8TSCi0d7EX1/giphy.gif" width="150"/> 
 <div id="badges">
 <h3 align="left">Languages and tools im familiar with :</h3>
 <p align="left">
