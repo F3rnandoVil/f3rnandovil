@@ -1,6 +1,6 @@
 
 ![Mi Banner de Github](GithubBanner.png)
-# <img src="https://media.giphy.com/media/iMBzH7q8TSCi0d7EX1/giphy.gif" width="150"/> 
+# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjk3cW02cm0zeGxsbzM3NXE5a3NqcndlbzhkdHY4cmJuZnFnazkzaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iMBzH7q8TSCi0d7EX1/giphy.webp" width="150"/> 
 <div id="badges">
 <h3 align="left">Languages and tools im familiar with :</h3>
 <p align="left">
